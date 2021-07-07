@@ -1,2 +1,2 @@
-# OnTheWay-Andoird
+# OnTheWay-Android
 An android app that presents real-time information for every nearby public bus service
